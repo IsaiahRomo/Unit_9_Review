@@ -22,3 +22,6 @@ input#nameBox:focus:valid, input#phoneBox:focus:valid{
 input#nameBox:focus:invalid, input#phoneBox:focus:invalid{
    background: rgb(255, 230, 230) url(rb_warning.png) bottom right / contain no-repeat
 }
+textarea{
+   resize: none;
+}
